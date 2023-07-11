@@ -1,8 +1,12 @@
 # KBC quiz game
 
-## Setup
-to create requirements file
-    pip freeze > requirements.txt
+     Its an amazing quiz game made with Python Gui using tkinter
+     It includes professional sounds which makes experience amazing
 
-to install all requirements 
-    pip install -r requirements.txt
+## Setup
+
+to create requirements file
+pip freeze > requirements.txt
+
+to install all requirements
+pip install -r requirements.txt
